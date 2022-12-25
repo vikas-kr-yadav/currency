@@ -1,1 +1,1 @@
-# currency
+# Currency Note Detection
